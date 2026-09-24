@@ -23,7 +23,7 @@
 
 ## Cloud Concepts
 
-**Cloud computing** on-demand delivery of IT resources over the internet with pay-as-you-go pricing. Instead of buying and maintaining physical infrastructure, you access compute, storage, and databases as needed.
+**Cloud computing:** on-demand delivery of IT resources over the internet with pay-as-you-go pricing. Instead of buying and maintaining physical infrastructure, you access compute, storage, and databases as needed.
 
 ### Deployment models
 
