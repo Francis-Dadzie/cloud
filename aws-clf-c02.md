@@ -1,7 +1,4 @@
-# AWS Certified Cloud Practitioner (CLF-C02)
-## Exam Preparation Notes
-
-> These notes cover the key concepts tested in the CLF-C02 exam. Topics are organised to match the official exam domains.
+# AWS Certified Cloud Practitioner (CLF-C02) - notes
 
 ---
 
@@ -26,7 +23,7 @@
 
 ## Cloud Concepts
 
-**Cloud computing** is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing. Instead of buying and maintaining physical infrastructure, you access compute, storage, and databases as needed.
+**Cloud computing** on-demand delivery of IT resources over the internet with pay-as-you-go pricing. Instead of buying and maintaining physical infrastructure, you access compute, storage, and databases as needed.
 
 ### Deployment models
 
