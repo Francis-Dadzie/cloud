@@ -1,4 +1,4 @@
-# AWS Certified Cloud Practitioner (CLF-C02) - notes
+# AWS Certified Cloud Practitioner (CLF-C02)
 
 ---
 
